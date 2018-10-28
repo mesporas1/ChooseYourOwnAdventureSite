@@ -18,6 +18,10 @@ html {
     letter-spacing: 1px;
   }
 
+  a{
+    color: black;
+  }
+
   body{
     width: 700px;
     margin: 0 auto;
@@ -32,3 +36,5 @@ html {
     margin: 480 auto;
     width: px;
   }
+
+  
